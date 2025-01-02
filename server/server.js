@@ -17,7 +17,7 @@ function generateToken(payload) {
 const db = mysql.createConnection({
   host: "localhost",
   user: "root",
-  password: "m@ya000",
+  password: "you_pass",
   database: "clzusers",
 });
 
